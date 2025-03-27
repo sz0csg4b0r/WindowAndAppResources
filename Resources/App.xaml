@@ -4,7 +4,11 @@
              xmlns:local="clr-namespace:Resources"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
+<<<<<<< HEAD
         <!--4. lépés. Alkalmazás szintű stílus beállítása minden Gombra:-->
+=======
+        <!--Alkalmazás szintű stílus beállítása minden Gombra:-->
+>>>>>>> d2db9ba8003785c36f5f6d429e79deb432e203f3
         <!--<Style TargetType="Button">
             <Setter Property="Background"
                     Value="Blue" />
