@@ -4,9 +4,11 @@
              xmlns:local="clr-namespace:Resources"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-
-        <!--4. lépés. Alkalmazás szintű stílus beállítása minden Gombra:-->
+<<<<<<<<< Temporary merge branch 1
         <!--Alkalmazás szintű stílus beállítása minden Gombra:-->
+=========
+        <!--4. lépés. Alkalmazás szintű stílus beállítása minden Gombra:-->
+>>>>>>>>> Temporary merge branch 2
         <!--<Style TargetType="Button">
             <Setter Property="Background"
                     Value="Blue" />
